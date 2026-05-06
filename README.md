@@ -35,20 +35,50 @@ Dự án xây dựng ứng dụng Market Online cho phép đặt hàng và quả
   + In danh sách dữ liệu ra màn hình
 
 
+
+
+## Giới thiệu
+Đây là ứng dụng bán hàng đơn giản được xây dựng bằng Flutter.  
+Ứng dụng mô phỏng giao diện cửa hàng online với các màn hình Home, Content và About.
+
+---
+
 ## Thành viên nhóm
-- Đoàn Quang Long - Home Screen
-- Đoàn Hoàng Vũ - Content Screen
-- Phạm Văn Hiếu - About Screen
 
-## Mô tả
-Ứng dụng bán hàng đơn giản được xây dựng bằng Flutter, bao gồm các chức năng:
-- Hiển thị danh sách sản phẩm
-- Xem chi tiết sản phẩm
-- Trang giới thiệu
+- Đoàn Quang Long: Home Screen (Trang chính)
+- Đoàn Hoàng Vũ: Content Screen (Danh sách nội dung sản phẩm)
+- Phạm Văn Hiếu: About Screen (Thông tin ứng dụng)
 
-## Phân công công việc
-| Thành viên | Công việc |
-|-----------|----------|
-| Đoàn Quang Long | Thiết kế và code Home |
-| Đoàn Hoàng Vũ | Thiết kế và code Content |
-| Phạm Văn Hiếu | Thiết kế và code About |
+---
+
+##  Chức năng chính
+
+### Home Screen
+- Hiển thị danh sách sản phẩm dạng grid
+- Banner quảng cáo
+- Hiển thị giá và tên sản phẩm
+- Giao diện thân thiện, dễ sử dụng
+
+### Content Screen
+- Hiển thị danh sách sản phẩm dạng list
+- Có hình ảnh + mô tả
+- Card UI rõ ràng, dễ nhìn
+
+### About Screen
+- Thông tin ứng dụng
+- Thông tin thành viên nhóm
+- Công nghệ sử dụng (Flutter, Dart)
+- Giao diện đẹp, có card layout
+
+---
+
+## Công nghệ sử dụng
+
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## Cấu trúc dự án
+
